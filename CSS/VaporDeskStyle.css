@@ -1,0 +1,140 @@
+
+
+img.source {
+
+ 
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: 12%;
+  width: 23%;
+  padding: 0px;
+ 
+  
+ 
+
+
+}
+
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    
+    
+  }
+  
+  li.nav {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+    
+    
+}
+
+
+  li.navA {
+
+     float: left;
+
+  }
+  
+  li.nav a.navA {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+
+  li.nav a.navA:hover {
+    background-color: #111;
+    border-left: whitesmoke;
+    border-right: whitesmoke;
+    
+  }
+
+
+
+
+
+  .firstheading {
+    text-align: center;
+    padding-top: 4em;
+    padding-bottom: 2em;
+    font-size: 30px;
+  }
+
+
+  .secondheading {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 25px;
+  }
+
+  div.productLine {
+
+
+   max-width: 1160px;
+   margin-left: auto;
+   margin-right: auto;
+   
+
+
+  }
+
+  ul.productLine {
+    list-style-type: none;
+    margin-left: auto;
+    margin-left: auto;
+    
+    
+    
+    
+    
+    
+    
+  }
+
+  li.item {
+
+    
+    
+    text-decoration: none;
+    padding-left: 6em;
+    padding-right: 6em;
+    display: inline-block;
+    
+
+   
+
+  }
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
