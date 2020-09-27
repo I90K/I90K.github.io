@@ -7,7 +7,7 @@ img.source {
   margin-right: auto;
   display: block;
   height: 12%;
-  width: 23%;
+  width: 45%;
   padding: 0px;
  
   
@@ -139,12 +139,9 @@ ul.navbar {
 
 
 .button-placement {
-  margin-left: auto;
-  margin-left: auto;
+  width: 100%;
   padding-top: 6em;
   padding-bottom: 6em;
-  padding-left: 49em;
-  padding-right: 49em;
 
 }
 
@@ -153,18 +150,21 @@ ul.navbar {
 .buy-button {
   
  
+  
   padding: 15px 32px;
-
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  
   font-size: 16px;
-  margin-left: auto;
-  margin-right: auto;
+ 
   cursor: pointer;
   background-color: white; 
   color: black; 
   border: 2px solid #4CAF50;
+  margin-left: auto;
+  margin-left: auto;
+  
+  
 }
 
 
