@@ -51,6 +51,7 @@ ul.navbar {
     font-size: 20px;
     padding-left: 1em;
     padding-right: 1em;
+    font-family: sans-serif;
   }
 
 
@@ -67,9 +68,12 @@ ul.navbar {
 
   .firstheading {
     text-align: center;
-    padding-top: 4em;
+    padding-top: 2em;
     padding-bottom: 2em;
     font-size: 30px;
+    font-family: Apple Chancery, cursive;
+    background-color: ghostwhite;
+
   }
 
 
@@ -78,6 +82,7 @@ ul.navbar {
     padding-top: 1em;
     padding-bottom: 1em;
     font-size: 25px;
+    font-family: Apple Chancery, cursive;
   }
 
   div.productLine {
@@ -117,7 +122,50 @@ ul.navbar {
    
 
   }
+  
+   
+.productLine {
+  font-family: sans-serif;
+}
 
+.manafacturer {
+  font: bold;
+  font-size: 18px;;
+}
+
+.product-price {
+  color: grey;
+}
+
+
+.button-placement {
+  margin-left: auto;
+  margin-left: auto;
+  padding-top: 6em;
+  padding-bottom: 6em;
+  padding-left: 53em;
+  padding-right: 53em;
+
+}
+
+
+
+.buy-button {
+  
+ 
+  padding: 15px 32px;
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
 
 
 
