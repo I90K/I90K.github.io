@@ -185,6 +185,32 @@ li.itemSmok {
 
 
 
+.banner {
+
+   padding-top: 0;
+   padding-bottom: 0;
+   width: 100%;
+   background-color: black;
+  
+  
+
+}
+
+
+.picture {
+
+  height: 35%;
+  
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+
+}
+
+
+
+
 
 
 
