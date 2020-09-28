@@ -206,11 +206,12 @@ li.itemSmok {
 
 .picture {
 
-  height: 35%;
+  height: 30%;
   
   margin-left: auto;
   margin-right: auto;
   display: block;
+  width: 65%;
 
 
 }
